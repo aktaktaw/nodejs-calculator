@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-calculator",
+  "version": "1.0.0",
+  "description": "calculator app using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aktaktaw/nodejs-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "nodejs"
+  ],
+  "author": "aktaktaw",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aktaktaw/nodejs-calculator/issues"
+  },
+  "homepage": "https://github.com/aktaktaw/nodejs-calculator#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
